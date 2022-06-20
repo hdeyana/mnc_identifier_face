@@ -19,8 +19,6 @@ This plugin requires iOS 11.0 or higher.
 Add this code to your Info.plist
 
 ```xml
- <key>NSPhotoLibraryUsageDescription</key>               
- <string>(Reason to use Photo Library)</string> 
  <key>NSCameraUsageDescription</key> <!-- added this for camera permission -->
  <string>(Reason to use camera access)</string>
 ```
